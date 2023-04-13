@@ -47,8 +47,4 @@ Gmail: `radekaadek@gmail.com`
 <!-- reddit -->
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/radekaadek)
 
-
-<!-- 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/) -->
-
 </div>
