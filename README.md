@@ -8,4 +8,4 @@
 
 Discord: `radekaadek#6414`
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radekaadek@gmail.com?subject=Hey!&body=Hi,%20i%20saw%20your%20profile%20on%20github%20and%20i%20want%20to%20contact%20you!%20%3A%29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radosław-dąbkowski-885064201/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/radekaadek)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radekaadek@gmail.com?subject=Hey!&body=Hi,%20i%20saw%20your%20profile%20on%20github%20and%20i%20want%20to%20contact%20you!%20%3A%29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/radosław-dąbkowski-885064201/)
